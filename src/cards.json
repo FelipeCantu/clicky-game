@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Naruto Uzumaki",
+        "image": "https://giantbomb1.cbsistatic.com/uploads/scale_small/3/33873/1700999-naruto.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Hinata Hyuga",
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png/revision/latest/scale-to-width-down/340?cb=20160916060747",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Kakashi Hatake",
+        "image": "https://i1.sndcdn.com/avatars-000596205825-0d0c6g-t500x500.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Jiraiya",
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/7/78/Jiraiya_running_from_peeping.png/revision/latest?cb=20191020231456",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Sasuke Uchiha",
+        "image": "https://i.pinimg.com/474x/15/f6/8e/15f68e281c23559f192b3eebaf14b3b6.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Itachi Uchiha",
+        "image": "https://i.pinimg.com/474x/15/f6/8e/15f68e281c23559f192b3eebaf14b3b6.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Rock Lee",
+        "image": "https://qph.fs.quoracdn.net/main-qimg-6648745f74a704d4e139b9db652679b8",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Gaara",
+        "image": "https://i.pinimg.com/originals/fb/94/37/fb9437bb6e96f7cc19666bb33d6e5982.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Tsunade",
+        "image": "https://pm1.narvii.com/6530/e3eae0970bd9a44ce295a665ffddbd54b641b9e2_hq.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Sakura Haruno",
+        "image": "https://pm1.narvii.com/7152/aad7a7ee1fdc0ee07049035eaa147353f373c1f8r1-640-480v2_hq.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "TenTen",
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/d/da/Tenten_Part_1.png/revision/latest/scale-to-width-down/340?cb=20180510203032",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Sai",
+        "image": "https://vignette.wikia.nocookie.net/naruto/images/b/b2/Sai_2.jpg/revision/latest/scale-to-width-down/340?cb=20190311124729&path-prefix=hu",
+        "count": 0
+    }
+]
