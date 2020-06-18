@@ -2,8 +2,8 @@ import React from "react";
 import "./card.css";
 
 const Card = props => (
-    <div className="card" onClick={() => props.clickCount(props.id)}>
-        <div className="img">
+    <div className="card" onClick={() => props.clickCounts(props.id)}>
+        <div className="img-container">
             <img alt={props.name} src={props.image} />
         </div>
     </div>
