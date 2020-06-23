@@ -3,26 +3,6 @@ import Wrapper from "./components/Wrapper/wrapper";
 import Header from "./components/Header/header";
 import cards from "./cards.json";
 import Card from "./components/Card/card";
-import Click from "../../api/click";
-
-
-export default function Click(){
-  const [data, setData] = useState("");
-
-  useEffect(() => {
-      fetch("/api/click").then(res => res.json())
-          .then(data => setData(data.message))
-  }, []);
-
-  return (
-      <div className="Click">
-          <header className="Clicky-header">
-              <h1>{data}</h1>
-          </header>
-      </div>
-  )
-}
-
 
 class App extends Component {
   state = {
