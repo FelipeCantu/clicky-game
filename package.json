@@ -11,6 +11,5 @@
     "scripts": {
         "start": "PROD=true node server.js",
         "postinstall": "cd ./client && npm"
-        
     }
 }
