@@ -1,3 +1,3 @@
 # clicky-game
 
-https://reactclickygameforme.herokuapp.com/
+[Play Game](https://reactclickygameforme.herokuapp.com/)
