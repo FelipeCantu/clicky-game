@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "Naruto Uzumaki",
-        "image": "https://giantbomb1.cbsistatic.com/uploads/scale_small/3/33873/1700999-naruto.png",
+        "name": "Madara Uchiha",
+        "image": "https://i.pinimg.com/originals/02/8a/ad/028aad909f64ba9a29f94d63b5708b31.gif",
         "count": 0
     },
     {
@@ -69,6 +69,30 @@
         "id": 12,
         "name": "Sai",
         "image": "https://vignette.wikia.nocookie.net/naruto/images/b/b2/Sai_2.jpg/revision/latest/scale-to-width-down/340?cb=20190311124729&path-prefix=hu",
+        "count": 0
+    },
+    {
+        "id": 13,
+        "name": "uzumaki naruto",
+        "image": "https://media.tenor.com/aT15akmpipIAAAAC/naruto-uzumaki-sonriendo.gif",
+        "count": 0
+    },
+    {
+        "id": 14,
+        "name": "Kurama",
+        "image": "https://cdn.firstcuriosity.com/wp-content/uploads/2022/10/03224524/Q_1664816673-1-696x392.jpg",
+        "count": 0
+    },
+    {
+        "id": 15,
+        "name": "Minato Namikaze",
+        "image": "https://gifdb.com/images/high/minato-namikaze-recharging-his-chakra-vsrhxx9fp9wvjapk.gif",
+        "count": 0
+    },
+    {
+        "id": 16,
+        "name": "Ino Yamanaka",
+        "image": "https://i.pinimg.com/originals/5d/75/04/5d7504c36e31ecfaa96bc18f9de0d5cc.gif",
         "count": 0
     }
 ]
