@@ -1,5 +1,6 @@
 {
     "name": "reactclickygameforme",
+    "homepage": "https://FelipeCantu.github.io/clicky-game",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
@@ -9,7 +10,12 @@
         "express-promise-router": "^4.0.1"
     },
     "scripts": {
-        "start": "PROD=true node server.js",
-        "postinstall": "cd ./client && npm"
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
+        "start": "react-scripts start",
+        "build": "react-scripts build"
+    },
+    "devDependencies": {
+        "gh-pages": "^6.0.0"
     }
 }
